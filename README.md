@@ -15,5 +15,5 @@ Bootstrap makes use of certain HTML elements and CSS properties that require the
 ```
 
 ```
-browserify script.js -t babelify --outfile bundle.js
+browserify main.js -t babelify --outfile bundle.js
 ```

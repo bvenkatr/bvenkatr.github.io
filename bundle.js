@@ -28,7 +28,7 @@ var _ajaxJson = require("./ajaxJson");
 
 var _namedExportsJs = require('./named-exports.js');
 
-(0, _ajaxJson.getUsefulContents)("http://www.google.com", function (data) {
+(0, _ajaxJson.getUsefulContents)("./package.json", function (data) {
 	alert("Yes, I am");
 	console.log(JSON.stringify(data));
 });

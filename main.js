@@ -1,5 +1,5 @@
 import { getUsefulContents } from "./ajaxJson";
-getUsefulContents("http://www.google.com", data => {
+getUsefulContents("./package.json", data => {
 	alert("Yes, I am");
 	console.log(JSON.stringify(data));
 });
