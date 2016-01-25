@@ -150,3 +150,4 @@
 		-> Recipient containers have access to data on source containers
 		-> Links are established based on container names
 ![Container Linking](https://github.com/bvenkatr/bvenkatr.github.io/blob/master/images/docker/container%20linking.png)
+
