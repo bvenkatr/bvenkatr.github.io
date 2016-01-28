@@ -76,6 +76,11 @@
 	1. Read only template used to create containers
 	2. Built by you or other docker users
 	3. Stored in the docker hub or your local registry
+
+	There are two ways to create a docker image:
+	1) Create a container and alter its state by running commands in it; create an image with docker commit
+    2) Create a Dockerfile and create an image with docker build
+
 #####Containers
 	1. Isolated application platform
 	2. Contains everything needed to run your application(necessary libraries and binaries)
