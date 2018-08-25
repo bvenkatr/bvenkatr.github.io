@@ -3,7 +3,7 @@ var myprofile = {
 	"codepen": "http://codepen.io/bvenkatr/",
 	"jsfiddle": "https://jsfiddle.net/user/bvenkatr/fiddles/",
 	"myblog": "http://bvenkatr.blogspot.in/",
-	"linkedin": "https://www.linkedin.com/nhome/",
+	"linkedin": "https://www.linkedin.com/in/bvenkatr/",
 	"facebook": "https://www.facebook.com/venkateswarareddy.baddigam",
 	"gitbooks": "https://www.gitbook.com/@bvenkatr/dashboard"
 };

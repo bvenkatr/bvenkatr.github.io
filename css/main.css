@@ -1,0 +1,23 @@
+div, img, a {
+    //border: red solid 1px;
+}
+.myheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: cyan;
+}
+
+.myFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.myBodyContent {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
